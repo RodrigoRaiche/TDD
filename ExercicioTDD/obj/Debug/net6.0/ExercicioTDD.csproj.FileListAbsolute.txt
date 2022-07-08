@@ -1,0 +1,15 @@
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/bin/Debug/net6.0/ExercicioTDD
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/bin/Debug/net6.0/ExercicioTDD.deps.json
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/bin/Debug/net6.0/ExercicioTDD.runtimeconfig.json
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/bin/Debug/net6.0/ExercicioTDD.dll
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/bin/Debug/net6.0/ExercicioTDD.pdb
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/ExercicioTDD.csproj.AssemblyReference.cache
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/ExercicioTDD.GeneratedMSBuildEditorConfig.editorconfig
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/ExercicioTDD.AssemblyInfoInputs.cache
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/ExercicioTDD.AssemblyInfo.cs
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/ExercicioTDD.csproj.CoreCompileInputs.cache
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/ExercicioTDD.dll
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/refint/ExercicioTDD.dll
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/ExercicioTDD.pdb
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/ExercicioTDD.genruntimeconfig.cache
+/home/raiche/DevInHouse2/csharp/prof/TDD/ExercicioTDD/obj/Debug/net6.0/ref/ExercicioTDD.dll
